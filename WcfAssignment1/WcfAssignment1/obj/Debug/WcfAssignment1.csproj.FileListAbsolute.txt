@@ -1,0 +1,7 @@
+D:\WCF\WCFNew\wcf-assignmnet1\WcfAssignment1\WcfAssignment1\bin\WcfAssignment1.dll.config
+D:\WCF\WCFNew\wcf-assignmnet1\WcfAssignment1\WcfAssignment1\bin\WcfAssignment1.dll
+D:\WCF\WCFNew\wcf-assignmnet1\WcfAssignment1\WcfAssignment1\bin\WcfAssignment1.pdb
+D:\WCF\WCFNew\wcf-assignmnet1\WcfAssignment1\WcfAssignment1\obj\Debug\WcfAssignment1.csproj.AssemblyReference.cache
+D:\WCF\WCFNew\wcf-assignmnet1\WcfAssignment1\WcfAssignment1\obj\Debug\WcfAssignment1.csproj.CoreCompileInputs.cache
+D:\WCF\WCFNew\wcf-assignmnet1\WcfAssignment1\WcfAssignment1\obj\Debug\WcfAssignment1.dll
+D:\WCF\WCFNew\wcf-assignmnet1\WcfAssignment1\WcfAssignment1\obj\Debug\WcfAssignment1.pdb
